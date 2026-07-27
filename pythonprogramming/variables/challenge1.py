@@ -6,3 +6,6 @@ area=PI*radius*radius
 circumference=2*PI*radius
 print("area :",area)
 print("circumference:",circumference)
+#radius:12
+#area : 452.15999999999997
+#circumference: 75.36
