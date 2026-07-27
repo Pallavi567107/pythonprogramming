@@ -2,7 +2,6 @@
 # task :1
 # Name:Pallavi Dhuli
 #assignment statement
-print("statements\n prgram-1")
 a=10 
 #conditional statement
 if(a>0):
@@ -12,3 +11,9 @@ if(a>0):
 while a>0:
  print(a)
  a=a-2
+    #a is gretear than 0
+#10
+#8
+#6
+#4
+#2
