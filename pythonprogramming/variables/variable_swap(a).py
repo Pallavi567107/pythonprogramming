@@ -9,3 +9,5 @@ temp=a
 a=b
 b=temp
 print("after swaping swaping a=",a,"b=",b)
+#before swaping a= 10 b= 20
+#after swaping swaping a= 20 b= 10
