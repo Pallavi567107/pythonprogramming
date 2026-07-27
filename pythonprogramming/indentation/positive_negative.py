@@ -7,3 +7,6 @@ if x > 0:
     print("positive")
 else:
     print("non-positive")
+
+#Enter x: 2
+#positive
