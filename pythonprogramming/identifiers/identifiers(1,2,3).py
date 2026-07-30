@@ -16,7 +16,11 @@ print("Function:", gender())
 print("Class:", student.__name__)
 print("Underscore name:",_sec)
 
-
+#Variable: pallavi
+#Constant: 19
+#Function: female
+#Class: student
+#Underscore name: d section
 
 
 #task 2
@@ -33,3 +37,5 @@ marks=10
 Marks=20
 print(marks)
 print(Marks)
+#10
+#20
