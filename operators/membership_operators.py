@@ -1,0 +1,13 @@
+#membership operators
+#B6.1
+#Name:Pallavi Dhuli
+
+fruits = ["apple", "banana", "mango", "grape", "kiwi"]
+item = input("Enter a fruit: ")
+print(item, "is in the list:", item in fruits)
+print(item, "is not in the list:", item not in fruits)
+
+
+#Enter a fruit: apple
+#apple is in the list: True
+#apple is not in the list: False

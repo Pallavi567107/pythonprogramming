@@ -1,0 +1,15 @@
+#A3 Boolean
+#A3.1
+#Name:Pallavi Dhuli
+
+is_raining = True 
+has_umbrella = False
+print(type(is_raining))
+print(is_raining and has_umbrella)
+print(is_raining or has_umbrella)
+print(not is_raining)
+
+#<class 'bool'>
+#False
+#True
+#False
