@@ -1,7 +1,10 @@
+#challenge task
+#name:pallavi 
+
 name="pallavi"
 password="567"
-user=input("enter username")
-userid=input("enter useri id")
+user=input("enter username ")
+userid=input("enter useri id ")
 
 if((user==name)and(userid==password)):
   login_status=True
@@ -12,5 +15,7 @@ if(login_status):
 else:
     print("invalid login credentials")
  
-  
+#enter username pallavi
+#enter useri id 567
+#login successfull
  
